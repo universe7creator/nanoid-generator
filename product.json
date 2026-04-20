@@ -1,0 +1,17 @@
+{
+  "name": "NanoID Generator Pro",
+  "slug": "nanoid-generator",
+  "tagline": "Generate secure, URL-friendly unique IDs with NanoID, ULID, UUID v4, and custom formats. Perfect for developers who need collision-free identifiers.",
+  "description": "Generate secure, URL-friendly unique IDs with NanoID, ULID, UUID v4, and custom formats. Perfect for developers who need collision-free identifiers.",
+  "price": "9",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null
+}

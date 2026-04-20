@@ -1,0 +1,14 @@
+{
+  "name": "nanoid-generator",
+  "version": "1.0.0",
+  "description": "Generate secure, URL-friendly unique IDs with NanoID, ULID, UUID v4, and custom formats. Perfect for developers who need collision-free identifiers.",
+  "main": "api/process.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "vercel-build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
